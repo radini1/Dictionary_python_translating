@@ -1,6 +1,6 @@
 ## Dictionary_python_translating
 
-_Hello everyone, this is a python dictionary with PyDictionary library and tkinter_.
+_Hello everyone, this is a GUI python dictionary with PyDictionary library and tkinter_.
 ___
 _you just need to_ `pip install -r requirements.txt`.
 ___
